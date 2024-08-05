@@ -14,15 +14,15 @@ Welcome to Liber AI, a powerful tool that allows you to interact with your PDF d
 
 ### Requirements
 
-- **Ensure you have the following dependencies installed**:
-python-dotenv
-google-generativeai
-PyPDF2
-streamlit
-langchain
-langchain-community
-langchain-google-genai
-faiss-cpu
+**Ensure you have the following dependencies installed:**
+- python-dotenv
+- google-generativeai
+- PyPDF2
+- streamlit
+- langchain
+- langchain-community
+- langchain-google-genai
+- faiss-cpu
 
 ### Configuration
 
